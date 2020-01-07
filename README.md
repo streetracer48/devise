@@ -5,13 +5,7 @@ By [Plataformatec](http://plataformatec.com.br/).
 [![Build Status](https://api.travis-ci.org/plataformatec/devise.svg?branch=master)](http://travis-ci.org/plataformatec/devise)
 [![Code Climate](https://codeclimate.com/github/plataformatec/devise.svg)](https://codeclimate.com/github/plataformatec/devise)
 
-This README is [also available in a friendly navigable format](http://devise.plataformatec.com.br/).
 
-Devise is a flexible authentication solution for Rails based on Warden. It:
-
-* Is Rack based;
-* Is a complete MVC solution based on Rails engines;
-* Allows you to have multiple models signed in at the same time;
 * Is based on a modularity concept: use only what you really need.
 
 It's composed of 10 modules:
